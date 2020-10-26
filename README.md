@@ -26,4 +26,4 @@ Dog.all #=> 'SELECT * FROM dogs'
 Cat.all #=> 'SELECT * FROM cats'
 ```
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/orm-discussion-questions'>Orm Discussion Questions</a> on Learn.co and start learning to code for free.</p>
+
